@@ -2,18 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 26, 54, 54;
-  --background-start-rgb: 248, 249, 248;
-}
-
 body {
-  color: rgb(var(--foreground-rgb));
-  background: rgb(var(--background-start-rgb));
-  scroll-behavior: smooth;
-}
-
-/* Lüks başlıklar için özel sınıf */
-.font-luxury {
-  font-family: 'Playfair Display', serif;
+  background-color: #F8F9F8;
+  color: #1A3636;
 }
