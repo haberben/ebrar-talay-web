@@ -5,7 +5,7 @@ import { schemaTypes } from './sanity/schemas'
 export default defineConfig({
   name: 'default',
   title: 'Ebrar Talay Web',
-  projectId: 'buraya_proje_id_gelecek',
+  projectId: 'ha0gt9rz',
   dataset: 'production',
   basePath: '/studio',
   plugins: [deskTool()],
