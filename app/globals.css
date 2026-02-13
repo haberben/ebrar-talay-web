@@ -1,15 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --brand-dark: #1A3636;
-  --brand-gold: #D6BD98;
-}
-
-body {
-  background-color: #F8F9F8 !important;
-  color: #1A3636 !important;
-  margin: 0;
-  padding: 0;
-}
+@import "tailwindcss";
